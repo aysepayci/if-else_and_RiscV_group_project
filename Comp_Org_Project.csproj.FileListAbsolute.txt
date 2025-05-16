@@ -1,0 +1,16 @@
+C:\Users\yunus\source\repos\Comp_Org_Project\bin\Debug\net8.0-windows\Comp_Org_Project.exe
+C:\Users\yunus\source\repos\Comp_Org_Project\bin\Debug\net8.0-windows\Comp_Org_Project.deps.json
+C:\Users\yunus\source\repos\Comp_Org_Project\bin\Debug\net8.0-windows\Comp_Org_Project.runtimeconfig.json
+C:\Users\yunus\source\repos\Comp_Org_Project\bin\Debug\net8.0-windows\Comp_Org_Project.dll
+C:\Users\yunus\source\repos\Comp_Org_Project\bin\Debug\net8.0-windows\Comp_Org_Project.pdb
+C:\Users\yunus\source\repos\Comp_Org_Project\obj\Debug\net8.0-windows\Comp_Org_Project.Form1.resources
+C:\Users\yunus\source\repos\Comp_Org_Project\obj\Debug\net8.0-windows\Comp_Org_Project.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Comp_Org_Project\obj\Debug\net8.0-windows\Comp_Org_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\Comp_Org_Project\obj\Debug\net8.0-windows\Comp_Org_Project.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\Comp_Org_Project\obj\Debug\net8.0-windows\Comp_Org_Project.AssemblyInfo.cs
+C:\Users\yunus\source\repos\Comp_Org_Project\obj\Debug\net8.0-windows\Comp_Org_Project.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Comp_Org_Project\obj\Debug\net8.0-windows\Comp_Org_Project.dll
+C:\Users\yunus\source\repos\Comp_Org_Project\obj\Debug\net8.0-windows\refint\Comp_Org_Project.dll
+C:\Users\yunus\source\repos\Comp_Org_Project\obj\Debug\net8.0-windows\Comp_Org_Project.pdb
+C:\Users\yunus\source\repos\Comp_Org_Project\obj\Debug\net8.0-windows\Comp_Org_Project.genruntimeconfig.cache
+C:\Users\yunus\source\repos\Comp_Org_Project\obj\Debug\net8.0-windows\ref\Comp_Org_Project.dll
